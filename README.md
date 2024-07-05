@@ -15,3 +15,6 @@ Construída cerca de 435 a.C na Grécia.
 
 Templo de Ártemis em Éfeso
 O Templo de Ártemis em Éfeso foi um dos maiores templos da antiguidade, dedicado à deusa Ártemis. Reconstruído várias vezes ao longo dos séculos, foi finalmente destruído por um incêndio em 401 d.C. Reconstruído por volta de 550 a.C na Turquia na época, Éfeso era uma cidade grega na Anatólia.
+
+Mausoléu de Halicarnasso
+O Mausoléu de Halicarnasso foi uma tumba monumental construída para Mausolo, um sátrapa persa da Caria. Foi adornado com esculturas erelevos por artistas gregos renomados. A palavra "mausoléu" deriva de seu nome.Concluído por volta de 350 a.C na Turquia antiga cidade de Halicarnasso, atual Bodrum.
