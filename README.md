@@ -21,3 +21,6 @@ O Mausoléu de Halicarnasso foi uma tumba monumental construída para Mausolo, u
 
 Colosso de Rodes
 O Colosso de Rodes era uma estátua gigantesca do deus Hélio, erguida para comemorar a vitória dos rodianos sobre Demétrio Poliórcete,foi uma das estátuas mais altas da antiguidade, mas foi destruída por um terremoto cerca de 50 anos após sua conclusão.Concluído por volta de 280 a.C na Grécia ilha de Rodes
+
+Farol de Alexandria
+ O Farol de Alexandria foi uma das primeiras estruturas de farol do mundo, construído na ilha de Faros para guiar os navios para o porto de Alexandria. Era uma torre alta, estimada em cerca de 100 metros de altura, e foi uma maravilha técnica de seu tempo. Concluído por volta de 280 a.C na Egito cidade de Alexandria.
